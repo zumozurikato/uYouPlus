@@ -65,7 +65,6 @@
 | **Alderis Color Picker** | [HASHBANG Productions](https://github.com/hbang) | 1.2.3 | [✔︎](https://github.com/hbang/Alderis) |
 | **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.3 | [✔︎](https://github.com/PoomSmart/YTUHD) |
 | **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.8.12 | [✔︎](https://github.com/PoomSmart/YouPiP) |
-| **IAmYouTube** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/IAmYouTube) |
 | **YTABConfig** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.2 | [✔︎](https://github.com/PoomSmart/YTABConfig) |
 | **YTReExplore** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.2 | [✔︎](https://github.com/PoomSmart/YTReExplore) |
 | **NoYTPremium** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.4 | [✔︎](https://github.com/PoomSmart/NoYTPremium) |
