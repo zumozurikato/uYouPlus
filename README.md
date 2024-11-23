@@ -75,6 +75,7 @@
 | **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.1 | [✔︎](https://github.com/PoomSmart/YouQuality) |
 | **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.6.9 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
 | **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.0 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
+| **YouGroupSettings** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.2 | [✔︎](https://github.com/PoomSmart/YouGroupSettings) |
 
 </details>
 
@@ -116,6 +117,8 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 14. **[YouQuality](https://poomsmart.github.io/repo/depictions/youquality)**: View and change video quality in YouTube app from the video overlay.
 
 15. **[YouTube-X](https://poomsmart.github.io/repo/depictions/ytx)**: A lightweight YouTube improvement tweak.
+
+16. **[YouGroupSettings](https://chariz.com/get/yougroupsettings)**: Group settings in YouTube app.
 
 </details>
 
