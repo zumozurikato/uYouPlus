@@ -71,6 +71,7 @@
 | **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.6 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
 | **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.4 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
 | **YouGroupSettings** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.3 | [✔︎](https://github.com/PoomSmart/YouGroupSettings) |
+| **YouSpeed** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://github.com/PoomSmart/YouSpeed) |
 
 </details>
 
