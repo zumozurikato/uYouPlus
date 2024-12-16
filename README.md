@@ -58,7 +58,7 @@
 | **DontEatMyContent** | [therealFoxster](https://github.com/therealFoxster) | 1.1.8 | [✔︎](https://github.com/therealFoxster/DontEatMyContent) |
 | **YTSpeed** | [Lyvendia](https://github.com/Lyvendia) | 1.0.1 | [✔︎](https://github.com/Lyvendia/YTSpeed) |
 | **Alderis Color Picker** | [HASHBANG Productions](https://github.com/hbang) | 1.2.3 | [✔︎](https://github.com/hbang/Alderis) |
-| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.5-2 | [✔︎](https://github.com/PoomSmart/YTUHD) |
+| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.6 | [✔︎](https://github.com/PoomSmart/YTUHD) |
 | **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.8.18 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 | **YTABConfig** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.6 | [✔︎](https://github.com/PoomSmart/YTABConfig) |
 | **YTReExplore** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.2 | [✔︎](https://github.com/PoomSmart/YTReExplore) |
