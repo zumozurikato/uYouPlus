@@ -116,6 +116,8 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
 
 16. **[YouGroupSettings](https://chariz.com/get/yougroupsettings)**: Group settings in YouTube app.
 
+17. **[YouSpeed](https://poomsmart.github.io/repo/depictions/youspeed)**: Speed up or slow down YouTube videos from the video overlay.
+
 </details>
 
 ## Credits
