@@ -44,7 +44,7 @@
 - **Compatibility:** Requires iOS/iPadOS 14.0 or later.
 
 <details>
-  <summary>Version information (last updated: Dec 28, 2024)</summary>
+  <summary>Version information (last updated: Jan 1, 2025)</summary>
 
 | **Tweaks/App** | **Developer** | **Version** | **Open source** |
 | - | - | :-: | :-:  |
@@ -69,7 +69,7 @@
 | **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/YouMute) |
 | **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.1 | [✔︎](https://github.com/PoomSmart/YouQuality) |
 | **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.6 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
-| **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 2.0.0 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
+| **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 2.0.1 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
 | **YouGroupSettings** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.3 | [✔︎](https://github.com/PoomSmart/YouGroupSettings) |
 | **YouSpeed** | [PoomSmart](https://twitter.com/poomsmart) | 1.1.1 | [✔︎](https://github.com/PoomSmart/YouSpeed) |
 
