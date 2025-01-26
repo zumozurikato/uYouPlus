@@ -69,3 +69,6 @@
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
 	url = https://github.com/PoomSmart/YouSpeed
+[submodule "Tweaks/PSHeader"]
+	path = Tweaks/PSHeader
+	url = https://github.com/PoomSmart/PSHeader.git
