@@ -44,11 +44,11 @@
 - **Compatibility:** Requires iOS/iPadOS 14.0 or later.
 
 <details>
-  <summary>Version information (last updated: Feb 12, 2025)</summary>
+  <summary>Version information (last updated: Feb 22, 2025)</summary>
 
 | **Tweaks/App** | **Developer** | **Version** | **Open source** |
 | - | - | :-: | :-:  |
-| **YouTube** | Google Inc | 20.06.03 | ✖︎ |
+| **YouTube** | Google Inc | 20.07.6 | ✖︎ |
 | [uYou](https://github.com/MiRO92/uYou-for-YouTube) | [MiRO92](https://twitter.com/miro92) | 3.0.4 | ✖︎ |
 | **Open in YouTube** | [CokePokes](https://github.com/CokePokes) | 1.2 | [✔︎](https://github.com/CokePokes/YoutubeExtensions) |
 | **iSponsorBlock** | [Galactic-Dev](https://github.com/Galactic-Dev) | 1.2.11 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
@@ -67,7 +67,7 @@
 | **Return YouTube Dislike** | [PoomSmart](https://twitter.com/poomsmart) | 1.13.3 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
 | **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.1 | [✔︎](https://github.com/PoomSmart/YouMute) |
 | **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.5 | [✔︎](https://github.com/PoomSmart/YouQuality) |
-| **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.9 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
+| **YouTube-X** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.10 | [✔︎](https://github.com/PoomSmart/YouTube-X) |
 | **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 2.2.0 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
 | **YouGroupSettings** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.4 | [✔︎](https://github.com/PoomSmart/YouGroupSettings) |
 | **YouSpeed** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.1 | [✔︎](https://github.com/PoomSmart/YouSpeed) |
